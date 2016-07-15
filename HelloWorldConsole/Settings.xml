@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SETTINGS>
+  <API_URI>http://jph290.azurewebsites.net/api/helloworld</API_URI>
+</SETTINGS>
